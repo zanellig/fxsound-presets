@@ -43,19 +43,19 @@ Band 4
    2: Boost/Cut
 Band 5
    630: CF
-   -1: Boost/Cut
+   -8: Boost/Cut
 Band 6
    1250: CF
-   -5: Boost/Cut
+   -4: Boost/Cut
 Band 7
    2700: CF
-   -5: Boost/Cut
+   -4: Boost/Cut
 Band 8
    5300: CF
-   -7: Boost/Cut
+   -2: Boost/Cut
 Band 9
    7500: CF
-   -4: Boost/Cut
+   0: Boost/Cut
 Band 10
    13000: CF
-   -9: Boost/Cut
+   -2: Boost/Cut
